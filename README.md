@@ -11,9 +11,10 @@ git clone https://github.com/14Naman/Resume-HTML-CSS/
 
 Open index.html to customize your CV by editing the HTML and CSS.
 
-View and Print:
 
 View the CV: Open index.html in a web browser.
+
+
 License
 This CV template is under the MIT License.
 
