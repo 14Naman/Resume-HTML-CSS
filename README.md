@@ -8,7 +8,6 @@ Clone this repository:
 bash
 Copy code
 git clone https://github.com/14Naman/Resume-HTML-CSS/
-Customize:
 
 Open index.html to customize your CV by editing the HTML and CSS.
 
